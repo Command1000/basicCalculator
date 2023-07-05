@@ -1,2 +1,2 @@
 # basicCalculator
-C++ calculator , C++計算器.
+A calculator , 一個計算器.
