@@ -3,9 +3,9 @@
 using namespace std;
 
 int main(){
-long long A,B;
+double A,B;
 string c;
-cout<<"注意!除法只取整數"<<endl;
+
 cout<<"請輸入第一個數字";
 cin>>A;
 cout<<"請輸入運算符號";
